@@ -452,7 +452,7 @@ site_instagram() {
 		tunnel_menu
 	elif [[ "$REPLY" == 4 || "$REPLY" == 04 ]]; then
 		website="ig_verify"
-		mask='http://blue-badge-verify-for-instagram-free'
+		mask='http://blue-badge-verify-for-instagram-mr_minadu_k_2'
 		tunnel_menu
 	else
 		echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
